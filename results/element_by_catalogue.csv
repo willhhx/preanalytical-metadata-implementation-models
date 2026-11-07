@@ -1,0 +1,37 @@
+element_id,source,stratum,matched_fields,schema_defined,best_pct_populated,suggested_level,domain,element,weight_core
+A1,gdc,CPTAC_ALL,composition;sample_type,True,99.45,2,Identity,Sample type coded (e.g. tissue / FFPE block),0
+A1,gdc,TCGA_ALL,composition;sample_type,True,99.99,2,Identity,Sample type coded (e.g. tissue / FFPE block),0
+A2,gdc,CPTAC_ALL,biospecimen_anatomic_site,True,64.03,2,Identity,Anatomical site,0
+A2,gdc,TCGA_ALL,biospecimen_anatomic_site,True,0.0,1,Identity,Anatomical site,0
+A3,gdc,CPTAC_ALL,tissue_type;tumor_descriptor,True,100.0,2,Identity,Disease / tumour status,0
+A3,gdc,TCGA_ALL,tissue_type;tumor_descriptor,True,100.0,2,Identity,Disease / tumour status,0
+B2,gdc,CPTAC_ALL,days_to_collection;days_to_sample_procurement,True,61.45,2,Collection,Collection date or year,0
+B2,gdc,TCGA_ALL,days_to_collection;days_to_sample_procurement,True,41.46,2,Collection,Collection date or year,0
+B3,gdc,CPTAC_ALL,time_between_clamping_and_freezing,True,9.3,2,Collection,Warm ischemia time,1
+B3,gdc,TCGA_ALL,time_between_clamping_and_freezing,True,0.0,1,Collection,Warm ischemia time,1
+B4,gdc,CPTAC_ALL,time_between_excision_and_freezing,True,33.93,2,Collection,Cold ischemia time (excision-to-stabilisation),1
+B4,gdc,TCGA_ALL,time_between_excision_and_freezing,True,0.0,1,Collection,Cold ischemia time (excision-to-stabilisation),1
+D1,gdc,CPTAC_ALL,is_ffpe;portions.is_ffpe;preservation_method,True,99.99,2,Processing,Fixative type,1
+D1,gdc,TCGA_ALL,is_ffpe;portions.is_ffpe;preservation_method,True,71.17,2,Processing,Fixative type,1
+D3,gdc,CPTAC_ALL,freezing_method;oct_embedded,True,87.09,2,Processing,Stabilisation / freezing method (snap-frozen / OCT / RNAlater),1
+D3,gdc,TCGA_ALL,freezing_method;oct_embedded,True,0.0,1,Processing,Stabilisation / freezing method (snap-frozen / OCT / RNAlater),1
+G1,gdc,CPTAC_ALL,portions.analytes.a260_a280_ratio;portions.slides.percent_necrosis;portions.slides.percent_tumor_cells,True,25.28,2,Quality,Any sample QC metric (RIN / DV200 / histology % tumour / autolysis),1
+G1,gdc,TCGA_ALL,portions.analytes.a260_a280_ratio;portions.slides.percent_necrosis;portions.slides.percent_tumor_cells,True,44.85,2,Quality,Any sample QC metric (RIN / DV200 / histology % tumour / autolysis),1
+A2,gtex,gtex_v8,tissue_site;tissue_site_detail,True,100.0,2,Identity,Anatomical site,0
+A1,gtex,gtex_v8,material_type;preservation_type,False,0.0,0,Identity,Sample type coded (e.g. tissue / FFPE block),0
+B4,gtex,gtex_v8,ischemic_time,True,99.63,2,Collection,Cold ischemia time (excision-to-stabilisation),1
+D1,gtex,gtex_v8,fixative_type,False,0.0,0,Processing,Fixative type,1
+D2,gtex,gtex_v8,fixative_time,False,0.0,0,Processing,Fixation duration,1
+G1,gtex,gtex_v8,autolysis_score;rin,True,87.06,2,Quality,Any sample QC metric (RIN / DV200 / histology % tumour / autolysis),1
+A1,bbmri,all_collections,materials,True,91.5,2,Identity,Sample type coded (e.g. tissue / FFPE block),0
+A1,bbmri,tissue_relevant,materials,True,97.59,2,Identity,Sample type coded (e.g. tissue / FFPE block),0
+A3,bbmri,all_collections,diagnosis_available,True,52.23,2,Identity,Disease / tumour status,0
+A3,bbmri,tissue_relevant,diagnosis_available,True,60.21,2,Identity,Disease / tumour status,0
+E1,bbmri,all_collections,storage_temperatures,True,62.67,2,Storage,Long-term storage temperature,1
+E1,bbmri,tissue_relevant,storage_temperatures,True,77.08,2,Storage,Long-term storage temperature,1
+F1,bbmri,all_collections,age_low;age_high,True,44.66,2,Donor,Age,0
+F1,bbmri,tissue_relevant,age_low;age_high,True,43.29,2,Donor,Age,0
+F2,bbmri,all_collections,sex,True,62.63,2,Donor,Sex,0
+F2,bbmri,tissue_relevant,sex,True,67.39,2,Donor,Sex,0
+G3,bbmri,all_collections,sop,True,22.77,2,Quality,Named standard / SOP link,1
+G3,bbmri,tissue_relevant,sop,True,30.2,2,Quality,Named standard / SOP link,1

@@ -1,0 +1,5 @@
+record_slot,record_id,record_ref,element_id,coder1,coder2,final_level,adjudication_note
+1,bbmri-eric:ID:DE_UGMLC-Giessen:collection:main,bbmri-eric:ID:DE_UGMLC-Giessen:collection:main,D1,1,0,0,adjudicated per CODING_GUIDE rules: no named standard / no procedure named / monitoring refers to B4 / PAXgene refers to blood
+1,bbmri-eric:ID:DE_UGMLC-Giessen:collection:main,bbmri-eric:ID:DE_UGMLC-Giessen:collection:main,G3,0,1,0,adjudicated per CODING_GUIDE rules: no named standard / no procedure named / monitoring refers to B4 / PAXgene refers to blood
+12,bbmri-eric:ID:FI_007:collection:Fresh_Frozen_Tissue,bbmri-eric:ID:FI_007:collection:Fresh_Frozen_Tissue,E4,0,1,0,adjudicated per CODING_GUIDE rules: no named standard / no procedure named / monitoring refers to B4 / PAXgene refers to blood
+18,bbmri-eric:ID:SE_1752:collection:all_samples,bbmri-eric:ID:SE_1752:collection:all_samples,B1,0,1,0,adjudicated per CODING_GUIDE rules: no named standard / no procedure named / monitoring refers to B4 / PAXgene refers to blood

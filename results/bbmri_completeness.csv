@@ -1,0 +1,121 @@
+source,stratum,field,schema_defined,n_records,n_populated,pct_populated,notes
+bbmri,all_collections,id,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,name,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,description,True,5952,5951,99.98,not preanalytical-like
+bbmri,all_collections,location,True,5952,3067,51.53,not preanalytical-like
+bbmri,all_collections,country,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,latitude,True,5952,804,13.51,not preanalytical-like
+bbmri,all_collections,longitude,True,5952,805,13.52,not preanalytical-like
+bbmri,all_collections,national_node,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,withdrawn,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,biobank,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,biobank_label,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,network,True,5952,3691,62.01,not preanalytical-like
+bbmri,all_collections,type,True,5952,5952,100.0,
+bbmri,all_collections,data_categories,True,5952,5952,100.0,
+bbmri,all_collections,order_of_magnitude,True,5952,5952,100.0,
+bbmri,all_collections,size,True,5952,3058,51.38,
+bbmri,all_collections,categories,True,5952,3810,64.01,not preanalytical-like
+bbmri,all_collections,timestamp,True,5952,2146,36.06,not preanalytical-like
+bbmri,all_collections,combined_quality,True,5952,2211,37.15,
+bbmri,all_collections,number_of_donors,True,5952,2882,48.42,not preanalytical-like
+bbmri,all_collections,sex,True,5952,3728,62.63,
+bbmri,all_collections,diagnosis_available,True,5952,3109,52.23,
+bbmri,all_collections,age_low,True,5952,2658,44.66,
+bbmri,all_collections,age_high,True,5952,1862,31.28,
+bbmri,all_collections,age_unit,True,5952,3789,63.66,
+bbmri,all_collections,materials,True,5952,5446,91.5,
+bbmri,all_collections,storage_temperatures,True,5952,3730,62.67,
+bbmri,all_collections,collaboration_commercial,True,5952,1473,24.75,not preanalytical-like
+bbmri,all_collections,collaboration_non_for_profit,True,5952,1591,26.73,not preanalytical-like
+bbmri,all_collections,commercial_use,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,access_fee,True,5952,950,15.96,not preanalytical-like
+bbmri,all_collections,access_description,True,5952,844,14.18,not preanalytical-like
+bbmri,all_collections,access_uri,True,5952,371,6.23,not preanalytical-like
+bbmri,all_collections,sop,True,5952,1355,22.77,
+bbmri,all_collections,catalog,True,5952,4952,83.2,not preanalytical-like
+bbmri,all_collections,license,True,5952,5952,100.0,not preanalytical-like
+bbmri,all_collections,language,True,5952,5952,100.0,
+bbmri,all_collections,keywords,True,5952,3109,52.23,not preanalytical-like
+bbmri,all_collections,quality,True,5952,30,0.5,
+bbmri,all_collections,access_joint_project,True,5952,780,13.1,not preanalytical-like
+bbmri,all_collections,sub_collections,True,5952,215,3.61,not preanalytical-like
+bbmri,all_collections,body_part_examined,True,5952,246,4.13,not preanalytical-like
+bbmri,all_collections,parent_collection,True,5952,1340,22.51,not preanalytical-like
+bbmri,all_collections,acronym,True,5952,2533,42.56,not preanalytical-like
+bbmri,all_collections,image_dataset_type,True,5952,46,0.77,
+bbmri,all_collections,imaging_modality,True,5952,136,2.28,not preanalytical-like
+bbmri,all_collections,facts,True,5952,390,6.55,not preanalytical-like
+bbmri,all_collections,order_of_magnitude_donors,True,5952,2493,41.89,
+bbmri,all_collections,also_known,True,5952,18,0.3,not preanalytical-like
+bbmri,all_collections,url,True,5952,1673,28.11,not preanalytical-like
+bbmri,all_collections,studies,True,5952,135,2.27,not preanalytical-like
+bbmri,all_collections,data_use,True,5952,203,3.41,not preanalytical-like
+bbmri,all_collections,contact,True,5952,0,0.0,not retrieved by design (person-linked field)
+bbmri,all_collections,duc_profile,True,5952,0,0.0,defined in schema; absent from all returned records
+bbmri,all_collections,eJP_RD_personalData,True,5952,0,0.0,defined in schema; absent from all returned records
+bbmri,all_collections,eJP_RD_vpConnection,True,5952,0,0.0,defined in schema; absent from all returned records
+bbmri,all_collections,head,True,5952,0,0.0,not retrieved by design (person-linked field)
+bbmri,all_collections,issued,True,5952,0,0.0,defined in schema; absent from all returned records
+bbmri,all_collections,modified,True,5952,0,0.0,defined in schema; absent from all returned records
+bbmri,all_collections,publisher,True,5952,0,0.0,not retrieved by design (person-linked field)
+bbmri,tissue_relevant,id,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,name,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,description,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,location,True,2116,1259,59.5,not preanalytical-like
+bbmri,tissue_relevant,country,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,latitude,True,2116,270,12.76,not preanalytical-like
+bbmri,tissue_relevant,longitude,True,2116,271,12.81,not preanalytical-like
+bbmri,tissue_relevant,national_node,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,withdrawn,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,biobank,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,biobank_label,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,network,True,2116,1433,67.72,not preanalytical-like
+bbmri,tissue_relevant,type,True,2116,2116,100.0,
+bbmri,tissue_relevant,data_categories,True,2116,2116,100.0,
+bbmri,tissue_relevant,order_of_magnitude,True,2116,2116,100.0,
+bbmri,tissue_relevant,size,True,2116,1175,55.53,
+bbmri,tissue_relevant,categories,True,2116,1614,76.28,not preanalytical-like
+bbmri,tissue_relevant,timestamp,True,2116,1025,48.44,not preanalytical-like
+bbmri,tissue_relevant,combined_quality,True,2116,910,43.01,
+bbmri,tissue_relevant,number_of_donors,True,2116,958,45.27,not preanalytical-like
+bbmri,tissue_relevant,sex,True,2116,1426,67.39,
+bbmri,tissue_relevant,diagnosis_available,True,2116,1274,60.21,
+bbmri,tissue_relevant,age_low,True,2116,916,43.29,
+bbmri,tissue_relevant,age_high,True,2116,664,31.38,
+bbmri,tissue_relevant,age_unit,True,2116,1307,61.77,
+bbmri,tissue_relevant,materials,True,2116,2065,97.59,
+bbmri,tissue_relevant,storage_temperatures,True,2116,1631,77.08,
+bbmri,tissue_relevant,collaboration_commercial,True,2116,681,32.18,not preanalytical-like
+bbmri,tissue_relevant,collaboration_non_for_profit,True,2116,739,34.92,not preanalytical-like
+bbmri,tissue_relevant,commercial_use,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,access_fee,True,2116,492,23.25,not preanalytical-like
+bbmri,tissue_relevant,access_description,True,2116,233,11.01,not preanalytical-like
+bbmri,tissue_relevant,access_uri,True,2116,127,6.0,not preanalytical-like
+bbmri,tissue_relevant,sop,True,2116,639,30.2,
+bbmri,tissue_relevant,catalog,True,2116,1809,85.49,not preanalytical-like
+bbmri,tissue_relevant,license,True,2116,2116,100.0,not preanalytical-like
+bbmri,tissue_relevant,language,True,2116,2116,100.0,
+bbmri,tissue_relevant,keywords,True,2116,1274,60.21,not preanalytical-like
+bbmri,tissue_relevant,quality,True,2116,3,0.14,
+bbmri,tissue_relevant,access_joint_project,True,2116,232,10.96,not preanalytical-like
+bbmri,tissue_relevant,sub_collections,True,2116,45,2.13,not preanalytical-like
+bbmri,tissue_relevant,body_part_examined,True,2116,141,6.66,not preanalytical-like
+bbmri,tissue_relevant,parent_collection,True,2116,659,31.14,not preanalytical-like
+bbmri,tissue_relevant,acronym,True,2116,820,38.75,not preanalytical-like
+bbmri,tissue_relevant,image_dataset_type,True,2116,18,0.85,
+bbmri,tissue_relevant,imaging_modality,True,2116,35,1.65,not preanalytical-like
+bbmri,tissue_relevant,facts,True,2116,150,7.09,not preanalytical-like
+bbmri,tissue_relevant,order_of_magnitude_donors,True,2116,835,39.46,
+bbmri,tissue_relevant,also_known,True,2116,7,0.33,not preanalytical-like
+bbmri,tissue_relevant,url,True,2116,545,25.76,not preanalytical-like
+bbmri,tissue_relevant,studies,True,2116,44,2.08,not preanalytical-like
+bbmri,tissue_relevant,data_use,True,2116,110,5.2,not preanalytical-like
+bbmri,tissue_relevant,contact,True,2116,0,0.0,not retrieved by design (person-linked field)
+bbmri,tissue_relevant,duc_profile,True,2116,0,0.0,defined in schema; absent from all returned records
+bbmri,tissue_relevant,eJP_RD_personalData,True,2116,0,0.0,defined in schema; absent from all returned records
+bbmri,tissue_relevant,eJP_RD_vpConnection,True,2116,0,0.0,defined in schema; absent from all returned records
+bbmri,tissue_relevant,head,True,2116,0,0.0,not retrieved by design (person-linked field)
+bbmri,tissue_relevant,issued,True,2116,0,0.0,defined in schema; absent from all returned records
+bbmri,tissue_relevant,modified,True,2116,0,0.0,defined in schema; absent from all returned records
+bbmri,tissue_relevant,publisher,True,2116,0,0.0,not retrieved by design (person-linked field)

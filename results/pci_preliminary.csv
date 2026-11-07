@@ -1,0 +1,6 @@
+source,stratum,n_core_total,n_core_mapped,n_core_ge2,PCI_mapped_only,PCI_full_provisional
+bbmri,all_collections,14,2,2,1.0,0.143
+bbmri,tissue_relevant,14,2,2,1.0,0.143
+gdc,CPTAC_ALL,14,5,5,1.0,0.357
+gdc,TCGA_ALL,14,5,2,0.4,0.143
+gtex,gtex_v8,14,4,2,0.5,0.143

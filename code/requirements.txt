@@ -1,0 +1,4 @@
+requests>=2.31
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1   # optional: only for the .xlsx coding sheets with dropdowns

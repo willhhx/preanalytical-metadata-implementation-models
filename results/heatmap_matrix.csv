@@ -1,0 +1,15 @@
+element_id,element,bbmri:all_collections,bbmri:tissue_relevant,gdc:CPTAC_ALL,gdc:TCGA_ALL,gtex:gtex_v8
+A1,Sample type coded (e.g. tissue / FFPE block),91.5,97.59,99.45,99.99,0.0
+A2,Anatomical site,,,64.03,0.0,100.0
+A3,Disease / tumour status,52.23,60.21,100.0,100.0,
+B2,Collection date or year,,,61.45,41.46,
+B3,Warm ischemia time,,,9.3,0.0,
+B4,Cold ischemia time (excision-to-stabilisation),,,33.93,0.0,99.63
+D1,Fixative type,,,99.99,71.17,0.0
+D2,Fixation duration,,,,,0.0
+D3,Stabilisation / freezing method (snap-frozen / OCT / RNAlater),,,87.09,0.0,
+E1,Long-term storage temperature,62.67,77.08,,,
+F1,Age,44.66,43.29,,,
+F2,Sex,62.63,67.39,,,
+G1,Any sample QC metric (RIN / DV200 / histology % tumour / autolysis),,,25.28,44.85,87.06
+G3,Named standard / SOP link,22.77,30.2,,,

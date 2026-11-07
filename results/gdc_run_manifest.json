@@ -1,0 +1,295 @@
+{
+  "started_utc": "2026-11-06T20:01:19+00:00",
+  "base_url": "https://api.gdc.cancer.gov",
+  "programs": [
+    "TCGA",
+    "CPTAC"
+  ],
+  "max_per_project": 0,
+  "page_size": 100,
+  "terms_acknowledged": true,
+  "gdc_status": {
+    "commit": "8f7c2a51ab0084b216ad1b62a3fae8b945439c53",
+    "data_release": "Data Release 46.0 - August 10, 2026",
+    "data_release_version": {
+      "major": 46,
+      "minor": 0,
+      "release_date": "2026-08-10"
+    },
+    "status": "OK",
+    "tag": "8.5.0",
+    "version": 1
+  },
+  "n_exposed_sample_fields": 201,
+  "discovered_preanalytical_like_fields": [
+    "current_weight",
+    "freezing_method",
+    "initial_weight",
+    "portions.is_ffpe",
+    "portions.weight",
+    "preservation_method",
+    "time_between_clamping_and_freezing",
+    "time_between_excision_and_freezing"
+  ],
+  "dictionary_sample_properties": [
+    "batch_id",
+    "biospecimen_anatomic_site",
+    "biospecimen_laterality",
+    "cases",
+    "catalog_reference",
+    "created_datetime",
+    "current_weight",
+    "days_to_collection",
+    "days_to_sample_procurement",
+    "diagnoses",
+    "diagnosis_pathologically_confirmed",
+    "distance_normal_to_tumor",
+    "distributor_reference",
+    "freezing_method",
+    "growth_rate",
+    "id",
+    "initial_weight",
+    "intermediate_dimension",
+    "longest_dimension",
+    "method_of_sample_procurement",
+    "parent_samples",
+    "passage_count",
+    "pathology_report_uuid",
+    "preservation_method",
+    "project_id",
+    "sample_ordinal",
+    "sample_type",
+    "shortest_dimension",
+    "specimen_type",
+    "state",
+    "submitter_id",
+    "time_between_clamping_and_freezing",
+    "time_between_excision_and_freezing",
+    "tissue_collection_type",
+    "tissue_source_sites",
+    "tissue_type",
+    "tumor_descriptor",
+    "type",
+    "updated_datetime"
+  ],
+  "projects": [
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-BRCA",
+      "n_cases": 1098
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-GBM",
+      "n_cases": 617
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-OV",
+      "n_cases": 608
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-LUAD",
+      "n_cases": 585
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-UCEC",
+      "n_cases": 560
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-KIRC",
+      "n_cases": 537
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-HNSC",
+      "n_cases": 528
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-LGG",
+      "n_cases": 516
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-THCA",
+      "n_cases": 507
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-LUSC",
+      "n_cases": 504
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-PRAD",
+      "n_cases": 500
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-SKCM",
+      "n_cases": 470
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-COAD",
+      "n_cases": 461
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-STAD",
+      "n_cases": 443
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-BLCA",
+      "n_cases": 412
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-LIHC",
+      "n_cases": 377
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-CESC",
+      "n_cases": 307
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-KIRP",
+      "n_cases": 291
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-TGCT",
+      "n_cases": 263
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-SARC",
+      "n_cases": 261
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-LAML",
+      "n_cases": 200
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-ESCA",
+      "n_cases": 185
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-PAAD",
+      "n_cases": 185
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-PCPG",
+      "n_cases": 179
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-READ",
+      "n_cases": 172
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-THYM",
+      "n_cases": 124
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-KICH",
+      "n_cases": 113
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-ACC",
+      "n_cases": 92
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-MESO",
+      "n_cases": 87
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-UVM",
+      "n_cases": 80
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-DLBC",
+      "n_cases": 58
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-UCS",
+      "n_cases": 57
+    },
+    {
+      "program": "TCGA",
+      "project_id": "TCGA-CHOL",
+      "n_cases": 51
+    },
+    {
+      "program": "CPTAC",
+      "project_id": "CPTAC-3",
+      "n_cases": 1866
+    },
+    {
+      "program": "CPTAC",
+      "project_id": "CPTAC-2",
+      "n_cases": 342
+    }
+  ],
+  "records_retrieved": {
+    "TCGA-BRCA": 3397,
+    "TCGA_ALL": 33939,
+    "TCGA-GBM": 1582,
+    "TCGA-OV": 1329,
+    "TCGA-LUAD": 1781,
+    "TCGA-UCEC": 1641,
+    "TCGA-KIRC": 1618,
+    "TCGA-HNSC": 1578,
+    "TCGA-LGG": 1553,
+    "TCGA-THCA": 1562,
+    "TCGA-LUSC": 1562,
+    "TCGA-PRAD": 1470,
+    "TCGA-SKCM": 1384,
+    "TCGA-COAD": 1490,
+    "TCGA-STAD": 1359,
+    "TCGA-BLCA": 1240,
+    "TCGA-LIHC": 1168,
+    "TCGA-CESC": 888,
+    "TCGA-KIRP": 893,
+    "TCGA-TGCT": 803,
+    "TCGA-SARC": 795,
+    "TCGA-LAML": 697,
+    "TCGA-ESCA": 536,
+    "TCGA-PAAD": 566,
+    "TCGA-PCPG": 546,
+    "TCGA-READ": 547,
+    "TCGA-THYM": 373,
+    "TCGA-KICH": 347,
+    "TCGA-ACC": 243,
+    "TCGA-MESO": 249,
+    "TCGA-UVM": 256,
+    "TCGA-DLBC": 161,
+    "TCGA-UCS": 171,
+    "TCGA-CHOL": 154,
+    "CPTAC-3": 7463,
+    "CPTAC_ALL": 8185,
+    "CPTAC-2": 722
+  },
+  "source": "gdc",
+  "run_finished_utc": "2026-11-06T20:02:40+00:00",
+  "python": "3.14.2",
+  "requests": "2.34.2"
+}

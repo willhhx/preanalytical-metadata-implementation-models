@@ -1,0 +1,491 @@
+stratum,field,value,count
+TCGA-BRCA,freezing_method,<missing>,3397
+TCGA-BRCA,preservation_method,<missing>,1550
+TCGA-BRCA,preservation_method,FFPE,1071
+TCGA-BRCA,preservation_method,OCT,776
+TCGA-BRCA,sample_type,Primary Tumor,2173
+TCGA-BRCA,sample_type,Blood Derived Normal,1054
+TCGA-BRCA,sample_type,Solid Tissue Normal,162
+TCGA-BRCA,sample_type,Metastatic,8
+TCGA-BRCA,tissue_type,Tumor,2181
+TCGA-BRCA,tissue_type,Normal,1216
+TCGA-BRCA,tumor_descriptor,Primary,2173
+TCGA-BRCA,tumor_descriptor,<missing>,1216
+TCGA-BRCA,tumor_descriptor,Metastatic,8
+TCGA_ALL,freezing_method,<missing>,33939
+TCGA_ALL,preservation_method,<missing>,19427
+TCGA_ALL,preservation_method,FFPE,9884
+TCGA_ALL,preservation_method,OCT,4628
+TCGA_ALL,sample_type,Primary Tumor,20513
+TCGA_ALL,sample_type,Blood Derived Normal,9713
+TCGA_ALL,sample_type,Solid Tissue Normal,2702
+TCGA_ALL,sample_type,Metastatic,541
+TCGA_ALL,sample_type,Primary Blood Derived Cancer - Peripheral Blood,356
+TCGA_ALL,sample_type,Recurrent Tumor,70
+TCGA_ALL,sample_type,Additional - New Primary,20
+TCGA_ALL,sample_type,FFPE Scrolls,10
+TCGA_ALL,sample_type,Buccal Cell Normal,5
+TCGA_ALL,sample_type,Bone Marrow Normal,4
+TCGA_ALL,sample_type,Additional Metastatic,3
+TCGA_ALL,sample_type,<missing>,2
+TCGA_ALL,tissue_type,Tumor,21513
+TCGA_ALL,tissue_type,Normal,12426
+TCGA_ALL,tumor_descriptor,Primary,20869
+TCGA_ALL,tumor_descriptor,<missing>,12436
+TCGA_ALL,tumor_descriptor,Metastatic,544
+TCGA_ALL,tumor_descriptor,Recurrence,70
+TCGA_ALL,tumor_descriptor,New Primary,20
+TCGA-GBM,freezing_method,<missing>,1582
+TCGA-GBM,preservation_method,<missing>,1185
+TCGA-GBM,preservation_method,FFPE,389
+TCGA-GBM,preservation_method,OCT,8
+TCGA-GBM,sample_type,Primary Tumor,1007
+TCGA-GBM,sample_type,Blood Derived Normal,522
+TCGA-GBM,sample_type,Solid Tissue Normal,40
+TCGA-GBM,sample_type,Recurrent Tumor,13
+TCGA-GBM,tissue_type,Tumor,1020
+TCGA-GBM,tissue_type,Normal,562
+TCGA-GBM,tumor_descriptor,Primary,1007
+TCGA-GBM,tumor_descriptor,<missing>,562
+TCGA-GBM,tumor_descriptor,Recurrence,13
+TCGA-OV,freezing_method,<missing>,1329
+TCGA-OV,preservation_method,<missing>,1220
+TCGA-OV,preservation_method,FFPE,105
+TCGA-OV,preservation_method,OCT,4
+TCGA-OV,sample_type,Primary Tumor,709
+TCGA-OV,sample_type,Blood Derived Normal,466
+TCGA-OV,sample_type,Solid Tissue Normal,135
+TCGA-OV,sample_type,Recurrent Tumor,19
+TCGA-OV,tissue_type,Tumor,728
+TCGA-OV,tissue_type,Normal,601
+TCGA-OV,tumor_descriptor,Primary,709
+TCGA-OV,tumor_descriptor,<missing>,601
+TCGA-OV,tumor_descriptor,Recurrence,19
+TCGA-LUAD,freezing_method,<missing>,1781
+TCGA-LUAD,preservation_method,<missing>,1191
+TCGA-LUAD,preservation_method,FFPE,495
+TCGA-LUAD,preservation_method,OCT,95
+TCGA-LUAD,sample_type,Primary Tumor,1075
+TCGA-LUAD,sample_type,Blood Derived Normal,425
+TCGA-LUAD,sample_type,Solid Tissue Normal,274
+TCGA-LUAD,sample_type,FFPE Scrolls,4
+TCGA-LUAD,sample_type,Recurrent Tumor,3
+TCGA-LUAD,tissue_type,Tumor,1082
+TCGA-LUAD,tissue_type,Normal,699
+TCGA-LUAD,tumor_descriptor,Primary,1075
+TCGA-LUAD,tumor_descriptor,<missing>,703
+TCGA-LUAD,tumor_descriptor,Recurrence,3
+TCGA-UCEC,freezing_method,<missing>,1641
+TCGA-UCEC,preservation_method,<missing>,878
+TCGA-UCEC,preservation_method,FFPE,510
+TCGA-UCEC,preservation_method,OCT,253
+TCGA-UCEC,sample_type,Primary Tumor,1058
+TCGA-UCEC,sample_type,Blood Derived Normal,529
+TCGA-UCEC,sample_type,Solid Tissue Normal,52
+TCGA-UCEC,sample_type,Recurrent Tumor,2
+TCGA-UCEC,tissue_type,Tumor,1060
+TCGA-UCEC,tissue_type,Normal,581
+TCGA-UCEC,tumor_descriptor,Primary,1058
+TCGA-UCEC,tumor_descriptor,<missing>,581
+TCGA-UCEC,tumor_descriptor,Recurrence,2
+TCGA-KIRC,freezing_method,<missing>,1618
+TCGA-KIRC,preservation_method,<missing>,1087
+TCGA-KIRC,preservation_method,FFPE,518
+TCGA-KIRC,preservation_method,OCT,13
+TCGA-KIRC,sample_type,Primary Tumor,1055
+TCGA-KIRC,sample_type,Solid Tissue Normal,442
+TCGA-KIRC,sample_type,Blood Derived Normal,117
+TCGA-KIRC,sample_type,<missing>,2
+TCGA-KIRC,sample_type,Additional - New Primary,2
+TCGA-KIRC,tissue_type,Tumor,1057
+TCGA-KIRC,tissue_type,Normal,561
+TCGA-KIRC,tumor_descriptor,Primary,1055
+TCGA-KIRC,tumor_descriptor,<missing>,561
+TCGA-KIRC,tumor_descriptor,New Primary,2
+TCGA-HNSC,freezing_method,<missing>,1578
+TCGA-HNSC,preservation_method,<missing>,1030
+TCGA-HNSC,preservation_method,FFPE,450
+TCGA-HNSC,preservation_method,OCT,98
+TCGA-HNSC,sample_type,Primary Tumor,978
+TCGA-HNSC,sample_type,Blood Derived Normal,516
+TCGA-HNSC,sample_type,Solid Tissue Normal,82
+TCGA-HNSC,sample_type,Metastatic,2
+TCGA-HNSC,tissue_type,Tumor,980
+TCGA-HNSC,tissue_type,Normal,598
+TCGA-HNSC,tumor_descriptor,Primary,978
+TCGA-HNSC,tumor_descriptor,<missing>,598
+TCGA-HNSC,tumor_descriptor,Metastatic,2
+TCGA-LGG,freezing_method,<missing>,1553
+TCGA-LGG,preservation_method,<missing>,939
+TCGA-LGG,preservation_method,FFPE,495
+TCGA-LGG,preservation_method,OCT,119
+TCGA-LGG,sample_type,Primary Tumor,1008
+TCGA-LGG,sample_type,Blood Derived Normal,518
+TCGA-LGG,sample_type,Recurrent Tumor,25
+TCGA-LGG,sample_type,Buccal Cell Normal,2
+TCGA-LGG,tissue_type,Tumor,1033
+TCGA-LGG,tissue_type,Normal,520
+TCGA-LGG,tumor_descriptor,Primary,1008
+TCGA-LGG,tumor_descriptor,<missing>,520
+TCGA-LGG,tumor_descriptor,Recurrence,25
+TCGA-THCA,freezing_method,<missing>,1562
+TCGA-THCA,preservation_method,<missing>,707
+TCGA-THCA,preservation_method,FFPE,506
+TCGA-THCA,preservation_method,OCT,349
+TCGA-THCA,sample_type,Primary Tumor,1013
+TCGA-THCA,sample_type,Blood Derived Normal,441
+TCGA-THCA,sample_type,Solid Tissue Normal,100
+TCGA-THCA,sample_type,Metastatic,8
+TCGA-THCA,tissue_type,Tumor,1021
+TCGA-THCA,tissue_type,Normal,541
+TCGA-THCA,tumor_descriptor,Primary,1013
+TCGA-THCA,tumor_descriptor,<missing>,541
+TCGA-THCA,tumor_descriptor,Metastatic,8
+TCGA-LUSC,freezing_method,<missing>,1562
+TCGA-LUSC,preservation_method,<missing>,990
+TCGA-LUSC,preservation_method,FFPE,484
+TCGA-LUSC,preservation_method,OCT,88
+TCGA-LUSC,sample_type,Primary Tumor,983
+TCGA-LUSC,sample_type,Blood Derived Normal,319
+TCGA-LUSC,sample_type,Solid Tissue Normal,254
+TCGA-LUSC,sample_type,FFPE Scrolls,6
+TCGA-LUSC,tissue_type,Tumor,989
+TCGA-LUSC,tissue_type,Normal,573
+TCGA-LUSC,tumor_descriptor,Primary,983
+TCGA-LUSC,tumor_descriptor,<missing>,579
+TCGA-PRAD,freezing_method,<missing>,1470
+TCGA-PRAD,preservation_method,<missing>,744
+TCGA-PRAD,preservation_method,FFPE,409
+TCGA-PRAD,preservation_method,OCT,317
+TCGA-PRAD,sample_type,Primary Tumor,907
+TCGA-PRAD,sample_type,Blood Derived Normal,444
+TCGA-PRAD,sample_type,Solid Tissue Normal,118
+TCGA-PRAD,sample_type,Metastatic,1
+TCGA-PRAD,tissue_type,Tumor,908
+TCGA-PRAD,tissue_type,Normal,562
+TCGA-PRAD,tumor_descriptor,Primary,907
+TCGA-PRAD,tumor_descriptor,<missing>,562
+TCGA-PRAD,tumor_descriptor,Metastatic,1
+TCGA-SKCM,freezing_method,<missing>,1384
+TCGA-SKCM,preservation_method,<missing>,571
+TCGA-SKCM,preservation_method,FFPE,435
+TCGA-SKCM,preservation_method,OCT,378
+TCGA-SKCM,sample_type,Metastatic,510
+TCGA-SKCM,sample_type,Blood Derived Normal,472
+TCGA-SKCM,sample_type,Primary Tumor,396
+TCGA-SKCM,sample_type,Additional Metastatic,3
+TCGA-SKCM,sample_type,Solid Tissue Normal,3
+TCGA-SKCM,tissue_type,Tumor,909
+TCGA-SKCM,tissue_type,Normal,475
+TCGA-SKCM,tumor_descriptor,Metastatic,513
+TCGA-SKCM,tumor_descriptor,<missing>,475
+TCGA-SKCM,tumor_descriptor,Primary,396
+TCGA-COAD,freezing_method,<missing>,1490
+TCGA-COAD,preservation_method,<missing>,1015
+TCGA-COAD,preservation_method,FFPE,465
+TCGA-COAD,preservation_method,OCT,10
+TCGA-COAD,sample_type,Primary Tumor,926
+TCGA-COAD,sample_type,Blood Derived Normal,467
+TCGA-COAD,sample_type,Solid Tissue Normal,93
+TCGA-COAD,sample_type,Metastatic,3
+TCGA-COAD,sample_type,Recurrent Tumor,1
+TCGA-COAD,tissue_type,Tumor,930
+TCGA-COAD,tissue_type,Normal,560
+TCGA-COAD,tumor_descriptor,Primary,926
+TCGA-COAD,tumor_descriptor,<missing>,560
+TCGA-COAD,tumor_descriptor,Metastatic,3
+TCGA-COAD,tumor_descriptor,Recurrence,1
+TCGA-STAD,freezing_method,<missing>,1359
+TCGA-STAD,preservation_method,<missing>,862
+TCGA-STAD,preservation_method,FFPE,416
+TCGA-STAD,preservation_method,OCT,81
+TCGA-STAD,sample_type,Primary Tumor,860
+TCGA-STAD,sample_type,Blood Derived Normal,398
+TCGA-STAD,sample_type,Solid Tissue Normal,101
+TCGA-STAD,tissue_type,Tumor,860
+TCGA-STAD,tissue_type,Normal,499
+TCGA-STAD,tumor_descriptor,Primary,860
+TCGA-STAD,tumor_descriptor,<missing>,499
+TCGA-BLCA,freezing_method,<missing>,1240
+TCGA-BLCA,preservation_method,<missing>,476
+TCGA-BLCA,preservation_method,FFPE,389
+TCGA-BLCA,preservation_method,OCT,375
+TCGA-BLCA,sample_type,Primary Tumor,802
+TCGA-BLCA,sample_type,Blood Derived Normal,400
+TCGA-BLCA,sample_type,Solid Tissue Normal,37
+TCGA-BLCA,sample_type,Metastatic,1
+TCGA-BLCA,tissue_type,Tumor,803
+TCGA-BLCA,tissue_type,Normal,437
+TCGA-BLCA,tumor_descriptor,Primary,802
+TCGA-BLCA,tumor_descriptor,<missing>,437
+TCGA-BLCA,tumor_descriptor,Metastatic,1
+TCGA-LIHC,freezing_method,<missing>,1168
+TCGA-LIHC,preservation_method,<missing>,483
+TCGA-LIHC,preservation_method,FFPE,365
+TCGA-LIHC,preservation_method,OCT,320
+TCGA-LIHC,sample_type,Primary Tumor,744
+TCGA-LIHC,sample_type,Blood Derived Normal,332
+TCGA-LIHC,sample_type,Solid Tissue Normal,89
+TCGA-LIHC,sample_type,Recurrent Tumor,3
+TCGA-LIHC,tissue_type,Tumor,747
+TCGA-LIHC,tissue_type,Normal,421
+TCGA-LIHC,tumor_descriptor,Primary,744
+TCGA-LIHC,tumor_descriptor,<missing>,421
+TCGA-LIHC,tumor_descriptor,Recurrence,3
+TCGA-CESC,freezing_method,<missing>,888
+TCGA-CESC,preservation_method,<missing>,452
+TCGA-CESC,preservation_method,FFPE,269
+TCGA-CESC,preservation_method,OCT,167
+TCGA-CESC,sample_type,Primary Tumor,575
+TCGA-CESC,sample_type,Blood Derived Normal,303
+TCGA-CESC,sample_type,Solid Tissue Normal,8
+TCGA-CESC,sample_type,Metastatic,2
+TCGA-CESC,tissue_type,Tumor,577
+TCGA-CESC,tissue_type,Normal,311
+TCGA-CESC,tumor_descriptor,Primary,575
+TCGA-CESC,tumor_descriptor,<missing>,311
+TCGA-CESC,tumor_descriptor,Metastatic,2
+TCGA-KIRP,freezing_method,<missing>,893
+TCGA-KIRP,preservation_method,<missing>,503
+TCGA-KIRP,preservation_method,FFPE,276
+TCGA-KIRP,preservation_method,OCT,114
+TCGA-KIRP,sample_type,Primary Tumor,568
+TCGA-KIRP,sample_type,Blood Derived Normal,236
+TCGA-KIRP,sample_type,Solid Tissue Normal,88
+TCGA-KIRP,sample_type,Additional - New Primary,1
+TCGA-KIRP,tissue_type,Tumor,569
+TCGA-KIRP,tissue_type,Normal,324
+TCGA-KIRP,tumor_descriptor,Primary,568
+TCGA-KIRP,tumor_descriptor,<missing>,324
+TCGA-KIRP,tumor_descriptor,New Primary,1
+TCGA-TGCT,freezing_method,<missing>,803
+TCGA-TGCT,preservation_method,<missing>,437
+TCGA-TGCT,preservation_method,FFPE,267
+TCGA-TGCT,preservation_method,OCT,99
+TCGA-TGCT,sample_type,Primary Tumor,524
+TCGA-TGCT,sample_type,Blood Derived Normal,266
+TCGA-TGCT,sample_type,Additional - New Primary,13
+TCGA-TGCT,tissue_type,Tumor,537
+TCGA-TGCT,tissue_type,Normal,266
+TCGA-TGCT,tumor_descriptor,Primary,524
+TCGA-TGCT,tumor_descriptor,<missing>,266
+TCGA-TGCT,tumor_descriptor,New Primary,13
+TCGA-SARC,freezing_method,<missing>,795
+TCGA-SARC,preservation_method,<missing>,304
+TCGA-SARC,preservation_method,FFPE,254
+TCGA-SARC,preservation_method,OCT,237
+TCGA-SARC,sample_type,Primary Tumor,516
+TCGA-SARC,sample_type,Blood Derived Normal,251
+TCGA-SARC,sample_type,Solid Tissue Normal,24
+TCGA-SARC,sample_type,Recurrent Tumor,3
+TCGA-SARC,sample_type,Metastatic,1
+TCGA-SARC,tissue_type,Tumor,520
+TCGA-SARC,tissue_type,Normal,275
+TCGA-SARC,tumor_descriptor,Primary,516
+TCGA-SARC,tumor_descriptor,<missing>,275
+TCGA-SARC,tumor_descriptor,Recurrence,3
+TCGA-SARC,tumor_descriptor,Metastatic,1
+TCGA-LAML,freezing_method,<missing>,697
+TCGA-LAML,preservation_method,<missing>,697
+TCGA-LAML,sample_type,Primary Blood Derived Cancer - Peripheral Blood,356
+TCGA-LAML,sample_type,Solid Tissue Normal,340
+TCGA-LAML,sample_type,Buccal Cell Normal,1
+TCGA-LAML,tissue_type,Tumor,356
+TCGA-LAML,tissue_type,Normal,341
+TCGA-LAML,tumor_descriptor,Primary,356
+TCGA-LAML,tumor_descriptor,<missing>,341
+TCGA-ESCA,freezing_method,<missing>,536
+TCGA-ESCA,preservation_method,<missing>,236
+TCGA-ESCA,preservation_method,FFPE,156
+TCGA-ESCA,preservation_method,OCT,144
+TCGA-ESCA,sample_type,Primary Tumor,343
+TCGA-ESCA,sample_type,Blood Derived Normal,127
+TCGA-ESCA,sample_type,Solid Tissue Normal,65
+TCGA-ESCA,sample_type,Metastatic,1
+TCGA-ESCA,tissue_type,Tumor,344
+TCGA-ESCA,tissue_type,Normal,192
+TCGA-ESCA,tumor_descriptor,Primary,343
+TCGA-ESCA,tumor_descriptor,<missing>,192
+TCGA-ESCA,tumor_descriptor,Metastatic,1
+TCGA-PAAD,freezing_method,<missing>,566
+TCGA-PAAD,preservation_method,<missing>,256
+TCGA-PAAD,preservation_method,FFPE,189
+TCGA-PAAD,preservation_method,OCT,121
+TCGA-PAAD,sample_type,Primary Tumor,368
+TCGA-PAAD,sample_type,Blood Derived Normal,154
+TCGA-PAAD,sample_type,Solid Tissue Normal,43
+TCGA-PAAD,sample_type,Metastatic,1
+TCGA-PAAD,tissue_type,Tumor,369
+TCGA-PAAD,tissue_type,Normal,197
+TCGA-PAAD,tumor_descriptor,Primary,368
+TCGA-PAAD,tumor_descriptor,<missing>,197
+TCGA-PAAD,tumor_descriptor,Metastatic,1
+TCGA-PCPG,freezing_method,<missing>,546
+TCGA-PCPG,preservation_method,<missing>,237
+TCGA-PCPG,preservation_method,FFPE,178
+TCGA-PCPG,preservation_method,OCT,131
+TCGA-PCPG,sample_type,Primary Tumor,355
+TCGA-PCPG,sample_type,Blood Derived Normal,179
+TCGA-PCPG,sample_type,Solid Tissue Normal,5
+TCGA-PCPG,sample_type,Additional - New Primary,4
+TCGA-PCPG,sample_type,Metastatic,3
+TCGA-PCPG,tissue_type,Tumor,362
+TCGA-PCPG,tissue_type,Normal,184
+TCGA-PCPG,tumor_descriptor,Primary,355
+TCGA-PCPG,tumor_descriptor,<missing>,184
+TCGA-PCPG,tumor_descriptor,New Primary,4
+TCGA-PCPG,tumor_descriptor,Metastatic,3
+TCGA-READ,freezing_method,<missing>,547
+TCGA-READ,preservation_method,<missing>,382
+TCGA-READ,preservation_method,FFPE,165
+TCGA-READ,sample_type,Primary Tumor,337
+TCGA-READ,sample_type,Blood Derived Normal,190
+TCGA-READ,sample_type,Solid Tissue Normal,19
+TCGA-READ,sample_type,Recurrent Tumor,1
+TCGA-READ,tissue_type,Tumor,338
+TCGA-READ,tissue_type,Normal,209
+TCGA-READ,tumor_descriptor,Primary,337
+TCGA-READ,tumor_descriptor,<missing>,209
+TCGA-READ,tumor_descriptor,Recurrence,1
+TCGA-THYM,freezing_method,<missing>,373
+TCGA-THYM,preservation_method,<missing>,193
+TCGA-THYM,preservation_method,FFPE,121
+TCGA-THYM,preservation_method,OCT,59
+TCGA-THYM,sample_type,Primary Tumor,245
+TCGA-THYM,sample_type,Blood Derived Normal,113
+TCGA-THYM,sample_type,Solid Tissue Normal,13
+TCGA-THYM,sample_type,Buccal Cell Normal,2
+TCGA-THYM,tissue_type,Tumor,245
+TCGA-THYM,tissue_type,Normal,128
+TCGA-THYM,tumor_descriptor,Primary,245
+TCGA-THYM,tumor_descriptor,<missing>,128
+TCGA-KICH,freezing_method,<missing>,347
+TCGA-KICH,preservation_method,<missing>,191
+TCGA-KICH,preservation_method,FFPE,156
+TCGA-KICH,sample_type,Primary Tumor,222
+TCGA-KICH,sample_type,Solid Tissue Normal,83
+TCGA-KICH,sample_type,Blood Derived Normal,42
+TCGA-KICH,tissue_type,Tumor,222
+TCGA-KICH,tissue_type,Normal,125
+TCGA-KICH,tumor_descriptor,Primary,222
+TCGA-KICH,tumor_descriptor,<missing>,125
+TCGA-ACC,freezing_method,<missing>,243
+TCGA-ACC,preservation_method,<missing>,120
+TCGA-ACC,preservation_method,OCT,67
+TCGA-ACC,preservation_method,FFPE,56
+TCGA-ACC,sample_type,Primary Tumor,148
+TCGA-ACC,sample_type,Blood Derived Normal,90
+TCGA-ACC,sample_type,Solid Tissue Normal,5
+TCGA-ACC,tissue_type,Tumor,148
+TCGA-ACC,tissue_type,Normal,95
+TCGA-ACC,tumor_descriptor,Primary,148
+TCGA-ACC,tumor_descriptor,<missing>,95
+TCGA-MESO,freezing_method,<missing>,249
+TCGA-MESO,preservation_method,<missing>,99
+TCGA-MESO,preservation_method,FFPE,75
+TCGA-MESO,preservation_method,OCT,75
+TCGA-MESO,sample_type,Primary Tumor,162
+TCGA-MESO,sample_type,Blood Derived Normal,86
+TCGA-MESO,sample_type,Solid Tissue Normal,1
+TCGA-MESO,tissue_type,Tumor,162
+TCGA-MESO,tissue_type,Normal,87
+TCGA-MESO,tumor_descriptor,Primary,162
+TCGA-MESO,tumor_descriptor,<missing>,87
+TCGA-UVM,freezing_method,<missing>,256
+TCGA-UVM,preservation_method,<missing>,162
+TCGA-UVM,preservation_method,FFPE,80
+TCGA-UVM,preservation_method,OCT,14
+TCGA-UVM,sample_type,Primary Tumor,160
+TCGA-UVM,sample_type,Blood Derived Normal,96
+TCGA-UVM,tissue_type,Tumor,160
+TCGA-UVM,tissue_type,Normal,96
+TCGA-UVM,tumor_descriptor,Primary,160
+TCGA-UVM,tumor_descriptor,<missing>,96
+TCGA-DLBC,freezing_method,<missing>,161
+TCGA-DLBC,preservation_method,<missing>,97
+TCGA-DLBC,preservation_method,FFPE,44
+TCGA-DLBC,preservation_method,OCT,20
+TCGA-DLBC,sample_type,Primary Tumor,92
+TCGA-DLBC,sample_type,Blood Derived Normal,65
+TCGA-DLBC,sample_type,Bone Marrow Normal,4
+TCGA-DLBC,tissue_type,Tumor,92
+TCGA-DLBC,tissue_type,Normal,69
+TCGA-DLBC,tumor_descriptor,Primary,92
+TCGA-DLBC,tumor_descriptor,<missing>,69
+TCGA-UCS,freezing_method,<missing>,171
+TCGA-UCS,preservation_method,<missing>,69
+TCGA-UCS,preservation_method,FFPE,57
+TCGA-UCS,preservation_method,OCT,45
+TCGA-UCS,sample_type,Primary Tumor,114
+TCGA-UCS,sample_type,Blood Derived Normal,51
+TCGA-UCS,sample_type,Solid Tissue Normal,6
+TCGA-UCS,tissue_type,Tumor,114
+TCGA-UCS,tissue_type,Normal,57
+TCGA-UCS,tumor_descriptor,Primary,114
+TCGA-UCS,tumor_descriptor,<missing>,57
+TCGA-CHOL,freezing_method,<missing>,154
+TCGA-CHOL,preservation_method,<missing>,64
+TCGA-CHOL,preservation_method,OCT,51
+TCGA-CHOL,preservation_method,FFPE,39
+TCGA-CHOL,sample_type,Primary Tumor,90
+TCGA-CHOL,sample_type,Blood Derived Normal,44
+TCGA-CHOL,sample_type,Solid Tissue Normal,20
+TCGA-CHOL,tissue_type,Tumor,90
+TCGA-CHOL,tissue_type,Normal,64
+TCGA-CHOL,tumor_descriptor,Primary,90
+TCGA-CHOL,tumor_descriptor,<missing>,64
+CPTAC-3,freezing_method,LN2,4064
+CPTAC-3,freezing_method,-20,2143
+CPTAC-3,freezing_method,-80,921
+CPTAC-3,freezing_method,<missing>,335
+CPTAC-3,preservation_method,Snap Frozen,3962
+CPTAC-3,preservation_method,Frozen,3320
+CPTAC-3,preservation_method,OCT,180
+CPTAC-3,preservation_method,<missing>,1
+CPTAC-3,sample_type,Primary Tumor,3060
+CPTAC-3,sample_type,Blood Derived Normal,2312
+CPTAC-3,sample_type,Solid Tissue Normal,1075
+CPTAC-3,sample_type,Buccal Cell Normal,480
+CPTAC-3,sample_type,Primary Blood Derived Cancer - Bone Marrow,271
+CPTAC-3,sample_type,Primary Blood Derived Cancer - Peripheral Blood,105
+CPTAC-3,sample_type,Recurrent Tumor,77
+CPTAC-3,sample_type,<missing>,45
+CPTAC-3,sample_type,Metastatic,38
+CPTAC-3,tissue_type,Normal,3867
+CPTAC-3,tissue_type,Tumor,3596
+CPTAC-3,tumor_descriptor,<missing>,3870
+CPTAC-3,tumor_descriptor,Primary,3355
+CPTAC-3,tumor_descriptor,Metastatic,152
+CPTAC-3,tumor_descriptor,Recurrence,86
+CPTAC_ALL,freezing_method,LN2,4064
+CPTAC_ALL,freezing_method,-20,2143
+CPTAC_ALL,freezing_method,<missing>,1057
+CPTAC_ALL,freezing_method,-80,921
+CPTAC_ALL,preservation_method,Frozen,4042
+CPTAC_ALL,preservation_method,Snap Frozen,3962
+CPTAC_ALL,preservation_method,OCT,180
+CPTAC_ALL,preservation_method,<missing>,1
+CPTAC_ALL,sample_type,Primary Tumor,3440
+CPTAC_ALL,sample_type,Blood Derived Normal,2653
+CPTAC_ALL,sample_type,Solid Tissue Normal,1076
+CPTAC_ALL,sample_type,Buccal Cell Normal,480
+CPTAC_ALL,sample_type,Primary Blood Derived Cancer - Bone Marrow,271
+CPTAC_ALL,sample_type,Primary Blood Derived Cancer - Peripheral Blood,105
+CPTAC_ALL,sample_type,Recurrent Tumor,77
+CPTAC_ALL,sample_type,<missing>,45
+CPTAC_ALL,sample_type,Metastatic,38
+CPTAC_ALL,tissue_type,Normal,4209
+CPTAC_ALL,tissue_type,Tumor,3976
+CPTAC_ALL,tumor_descriptor,<missing>,4212
+CPTAC_ALL,tumor_descriptor,Primary,3735
+CPTAC_ALL,tumor_descriptor,Metastatic,152
+CPTAC_ALL,tumor_descriptor,Recurrence,86
+CPTAC-2,freezing_method,<missing>,722
+CPTAC-2,preservation_method,Frozen,722
+CPTAC-2,sample_type,Primary Tumor,380
+CPTAC-2,sample_type,Blood Derived Normal,341
+CPTAC-2,sample_type,Solid Tissue Normal,1
+CPTAC-2,tissue_type,Tumor,380
+CPTAC-2,tissue_type,Normal,342
+CPTAC-2,tumor_descriptor,Primary,380
+CPTAC-2,tumor_descriptor,<missing>,342

@@ -1,0 +1,22 @@
+element_id,domain,element,sprec_or_standard_link,level_unit,weight_core,notes
+A1,Identity,Sample type coded (e.g. tissue / FFPE block),SPREC element 1 (type of sample),record or collection,0,Control domain
+A2,Identity,Anatomical site,BRISQ,record or collection,0,Control domain
+A3,Identity,Disease / tumour status,BRISQ,record or collection,0,Control domain
+B1,Collection,Type of collection (resection / biopsy / autopsy),SPREC element 2 (type of collection),record or collection,1,
+B2,Collection,Collection date or year,ISO 20387 traceability,record or collection,0,Control domain
+B3,Collection,Warm ischemia time,SPREC element 3,record or collection,1,Core
+B4,Collection,Cold ischemia time (excision-to-stabilisation),SPREC element 4,record or collection,1,Core
+D1,Processing,Fixative type,SPREC element 5 (type of fixation/stabilisation),record or collection,1,Core
+D2,Processing,Fixation duration,SPREC element 6,record or collection,1,Core
+D3,Processing,Stabilisation / freezing method (snap-frozen / OCT / RNAlater),SPREC element 5,record or collection,1,Core
+D4,Processing,Post-mortem interval (autopsy tissue only),GTEx / BRISQ,record or collection,1,Score only where applicable
+E1,Storage,Long-term storage temperature,SPREC element 7,record or collection,1,Core
+E2,Storage,Storage duration / time in storage,ISBER Best Practices,record or collection,1,Core
+E3,Storage,Freeze-thaw cycles,ISBER Best Practices,record or collection,1,Core
+E4,Storage,Temperature excursion / storage-monitoring record,ISO 20387,record or collection,1,Core
+G1,Quality,Any sample QC metric (RIN / DV200 / histology % tumour / autolysis),BRISQ,record or collection,1,Core
+G2,Quality,SPREC code (or equivalent coded preanalytical string) present,SPREC,record or collection,1,Core
+G3,Quality,Named standard / SOP link,ISO 20387,record or collection,1,Core
+F1,Donor,Age,BRISQ,record or collection,0,Control domain
+F2,Donor,Sex,BRISQ,record or collection,0,Control domain
+F3,Donor,Pre-collection treatment (neoadjuvant therapy etc.),BRISQ,record or collection,0,Control domain

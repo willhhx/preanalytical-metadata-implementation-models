@@ -1,0 +1,7 @@
+Catalogue: BBMRI (BBMRI-ERIC Directory tissue collections: free-text description + structured fields (snapshot from 03_bbmri_pull.py))
+Drawn on: 2026-11-06
+Rule: 30 (+5 reserves) of 1154 unique IDs from frame 'out/bbmri_frame_tissue_cancer.csv' drawn without replacement with Python random.Random(seed=2026).sample on the sorted ID list.
+Filter/search used: tissue + cancer-related collections
+Result sort order: frame sorted by collection ID
+Inclusion rule: human solid-tissue oncology collections. TISSUE: materials contain TISSUE_* or the description states tissue/biopsy/FFPE/frozen/paraffin/resection. ONCOLOGY: name or description mention cancer/tumour/neoplasm/malignancy/carcinoma/sarcoma/lymphoma/leukaemia/melanoma/glioma/myeloma, or >=50% of keywords are neoplasm terms. Rule applied by script (coder1_rules.py) before any level was coded.
+If a sampled record is ineligible (e.g. no tissue), write 'INELIGIBLE: reason' in its notes and use the next unused reserve slot (is_reserve = TRUE) in slot order; never hand-pick replacements.

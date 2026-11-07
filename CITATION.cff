@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "Implementation models for structured preanalytical metadata across public biobank ecosystems: code and results"
+authors:
+  - family-names: Hu
+    given-names: Haoxi
+    affiliation: "Northeastern University"
+    email: hu.haoxi@northeastern.edu
+license: MIT
+date-released: 2026-11-07

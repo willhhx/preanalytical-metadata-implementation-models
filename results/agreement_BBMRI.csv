@@ -1,0 +1,16 @@
+catalogue,level,element_id,n_pairs,pct_agreement,kappa,kappa_linear_weighted,kappa_ci_low,kappa_ci_high,kappa_w_ci_low,kappa_w_ci_high
+BBMRI,element,B1,6,83.3,0.667,0.667,,,,
+BBMRI,element,B3,6,100.0,,,,,,
+BBMRI,element,B4,6,100.0,1.0,1.0,,,,
+BBMRI,element,D1,6,83.3,0.7,0.0,,,,
+BBMRI,element,D2,6,100.0,1.0,,,,,
+BBMRI,element,D3,6,100.0,1.0,1.0,,,,
+BBMRI,element,D4,6,100.0,,,,,,
+BBMRI,element,E1,6,100.0,1.0,1.0,,,,
+BBMRI,element,E2,6,100.0,,,,,,
+BBMRI,element,E3,6,100.0,,,,,,
+BBMRI,element,E4,6,83.3,0.0,0.0,,,,
+BBMRI,element,G1,6,100.0,1.0,1.0,,,,
+BBMRI,element,G2,6,100.0,,,,,,
+BBMRI,element,G3,6,83.3,0.7,0.824,,,,
+BBMRI,POOLED,ALL,84,95.238,0.897,0.894,0.774,0.975,0.781,0.975

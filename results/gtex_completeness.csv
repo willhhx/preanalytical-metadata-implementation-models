@@ -1,0 +1,72 @@
+source,stratum,field,schema_defined,n_records,n_populated,pct_populated,notes
+gtex,gtex_v8,ischemic_time,True,22734,22650,99.63,column=ischemicTime
+gtex,gtex_v8,material_type,False,22734,0,0.0,none of ['materialType'] present in returned columns
+gtex,gtex_v8,original_material,False,22734,0,0.0,none of ['originalMaterialType'] present in returned columns
+gtex,gtex_v8,pathology_notes,True,22734,15737,69.22,column=pathologyNotes
+gtex,gtex_v8,hardy_scale,True,22734,22517,99.05,column=hardyScale
+gtex,gtex_v8,sample_mass,False,22734,0,0.0,"none of ['mass', 'amount'] present in returned columns"
+gtex,gtex_v8,concentration,False,22734,0,0.0,none of ['concentration'] present in returned columns
+gtex,gtex_v8,fixative_time,False,22734,0,0.0,"none of ['paxgeneTime', 'SMTSPAX'] present in returned columns"
+gtex,gtex_v8,autolysis_score,True,22734,12185,53.6,column=autolysisScore
+gtex,gtex_v8,rin,True,22734,19793,87.06,column=rin
+gtex,gtex_v8,tissue_site,False,22734,0,0.0,"none of ['tissueSite', 'SMTS'] present in returned columns"
+gtex,gtex_v8,tissue_site_detail,True,22734,22734,100.0,column=tissueSiteDetail
+gtex,gtex_v8,uberon_id,True,22734,22734,100.0,column=uberonId
+gtex,gtex_v8,procurement_period,False,22734,0,0.0,none of ['SMTSTPTREF'] present in returned columns
+gtex,gtex_v8,fixative_type,False,22734,0,0.0,"none of ['fixative', 'SMFIXTYPE'] present in returned columns"
+gtex,gtex_v8,preservation_type,False,22734,0,0.0,"none of ['preservationType', 'SMPRSVTYPE'] present in returned columns"
+gtex,gtex_v8,nucleic_acid_batch,False,22734,0,0.0,"none of ['SMNABTCH', 'SMNABTCHT'] present in returned columns"
+gtex,tissue:Adipose - Subcutaneous,ischemic_time,True,763,763,100.0,column=ischemicTime
+gtex,tissue:Adipose - Visceral (Omentum),ischemic_time,True,564,564,100.0,column=ischemicTime
+gtex,tissue:Adrenal Gland,ischemic_time,True,275,275,100.0,column=ischemicTime
+gtex,tissue:Artery - Aorta,ischemic_time,True,450,450,100.0,column=ischemicTime
+gtex,tissue:Artery - Coronary,ischemic_time,True,253,253,100.0,column=ischemicTime
+gtex,tissue:Artery - Tibial,ischemic_time,True,770,770,100.0,column=ischemicTime
+gtex,tissue:Bladder,ischemic_time,True,21,21,100.0,column=ischemicTime
+gtex,tissue:Brain - Amygdala,ischemic_time,True,177,177,100.0,column=ischemicTime
+gtex,tissue:Brain - Anterior cingulate cortex (BA24),ischemic_time,True,213,213,100.0,column=ischemicTime
+gtex,tissue:Brain - Caudate (basal ganglia),ischemic_time,True,291,291,100.0,column=ischemicTime
+gtex,tissue:Brain - Cerebellar Hemisphere,ischemic_time,True,263,263,100.0,column=ischemicTime
+gtex,tissue:Brain - Cerebellum,ischemic_time,True,298,298,100.0,column=ischemicTime
+gtex,tissue:Brain - Cortex,ischemic_time,True,325,325,100.0,column=ischemicTime
+gtex,tissue:Brain - Frontal Cortex (BA9),ischemic_time,True,425,425,100.0,column=ischemicTime
+gtex,tissue:Brain - Hippocampus,ischemic_time,True,243,243,100.0,column=ischemicTime
+gtex,tissue:Brain - Hypothalamus,ischemic_time,True,236,236,100.0,column=ischemicTime
+gtex,tissue:Brain - Nucleus accumbens (basal ganglia),ischemic_time,True,277,277,100.0,column=ischemicTime
+gtex,tissue:Brain - Putamen (basal ganglia),ischemic_time,True,232,232,100.0,column=ischemicTime
+gtex,tissue:Brain - Spinal cord (cervical c-1),ischemic_time,True,182,182,100.0,column=ischemicTime
+gtex,tissue:Brain - Substantia nigra,ischemic_time,True,164,164,100.0,column=ischemicTime
+gtex,tissue:Breast - Mammary Tissue,ischemic_time,True,480,480,100.0,column=ischemicTime
+gtex,tissue:Cells - Cultured fibroblasts,ischemic_time,True,527,506,96.02,column=ischemicTime
+gtex,tissue:Cells - EBV-transformed lymphocytes,ischemic_time,True,192,192,100.0,column=ischemicTime
+gtex,tissue:Cervix - Ectocervix,ischemic_time,True,9,9,100.0,column=ischemicTime
+gtex,tissue:Cervix - Endocervix,ischemic_time,True,10,10,100.0,column=ischemicTime
+gtex,tissue:Colon - Sigmoid,ischemic_time,True,389,389,100.0,column=ischemicTime
+gtex,tissue:Colon - Transverse,ischemic_time,True,432,432,100.0,column=ischemicTime
+gtex,tissue:Esophagus - Gastroesophageal Junction,ischemic_time,True,401,401,100.0,column=ischemicTime
+gtex,tissue:Esophagus - Mucosa,ischemic_time,True,622,622,100.0,column=ischemicTime
+gtex,tissue:Esophagus - Muscularis,ischemic_time,True,559,559,100.0,column=ischemicTime
+gtex,tissue:Fallopian Tube,ischemic_time,True,9,9,100.0,column=ischemicTime
+gtex,tissue:Heart - Atrial Appendage,ischemic_time,True,452,452,100.0,column=ischemicTime
+gtex,tissue:Heart - Left Ventricle,ischemic_time,True,689,688,99.85,column=ischemicTime
+gtex,tissue:Kidney - Cortex,ischemic_time,True,100,100,100.0,column=ischemicTime
+gtex,tissue:Kidney - Medulla,ischemic_time,True,4,4,100.0,column=ischemicTime
+gtex,tissue:Liver,ischemic_time,True,251,251,100.0,column=ischemicTime
+gtex,tissue:Lung,ischemic_time,True,867,866,99.88,column=ischemicTime
+gtex,tissue:Minor Salivary Gland,ischemic_time,True,181,181,100.0,column=ischemicTime
+gtex,tissue:Muscle - Skeletal,ischemic_time,True,1132,1130,99.82,column=ischemicTime
+gtex,tissue:Nerve - Tibial,ischemic_time,True,722,722,100.0,column=ischemicTime
+gtex,tissue:Ovary,ischemic_time,True,195,195,100.0,column=ischemicTime
+gtex,tissue:Pancreas,ischemic_time,True,360,360,100.0,column=ischemicTime
+gtex,tissue:Pituitary,ischemic_time,True,301,301,100.0,column=ischemicTime
+gtex,tissue:Prostate,ischemic_time,True,262,262,100.0,column=ischemicTime
+gtex,tissue:Skin - Not Sun Exposed (Suprapubic),ischemic_time,True,638,638,100.0,column=ischemicTime
+gtex,tissue:Skin - Sun Exposed (Lower leg),ischemic_time,True,849,849,100.0,column=ischemicTime
+gtex,tissue:Small Intestine - Terminal Ileum,ischemic_time,True,193,193,100.0,column=ischemicTime
+gtex,tissue:Spleen,ischemic_time,True,260,260,100.0,column=ischemicTime
+gtex,tissue:Stomach,ischemic_time,True,381,381,100.0,column=ischemicTime
+gtex,tissue:Testis,ischemic_time,True,406,406,100.0,column=ischemicTime
+gtex,tissue:Thyroid,ischemic_time,True,812,812,100.0,column=ischemicTime
+gtex,tissue:Uterus,ischemic_time,True,166,166,100.0,column=ischemicTime
+gtex,tissue:Vagina,ischemic_time,True,173,173,100.0,column=ischemicTime
+gtex,tissue:Whole Blood,ischemic_time,True,3288,3229,98.21,column=ischemicTime

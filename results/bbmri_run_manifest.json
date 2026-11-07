@@ -1,0 +1,23 @@
+{
+  "started_utc": "2026-11-06T21:43:24+00:00",
+  "api": "graphql",
+  "base_url": "https://directory.bbmri-eric.eu/ERIC/graphql",
+  "table": "Collections",
+  "terms_acknowledged": true,
+  "page_size": 200,
+  "n_schema_attributes": 60,
+  "attributes_not_selectable": [
+    "head",
+    "contact",
+    "publisher"
+  ],
+  "total_collections": 5952,
+  "records_retrieved": 5952,
+  "n_tissue_relevant": 2116,
+  "n_frame_tissue_cancer": 1154,
+  "n_frame_tissue": 2116,
+  "source": "bbmri",
+  "run_finished_utc": "2026-11-06T21:43:55+00:00",
+  "python": "3.14.2",
+  "requests": "2.34.2"
+}

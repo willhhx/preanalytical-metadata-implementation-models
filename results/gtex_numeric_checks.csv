@@ -1,0 +1,3 @@
+element,column,n_numeric,n_negative,n_zero,min,median,max
+ischemic_time,ischemicTime,22650,1566,2,-1287.0,513.0,2076.0
+rin,rin,19793,0,0,3.1,7.2,10.0
